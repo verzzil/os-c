@@ -1,0 +1,8 @@
+/home/albert/11_906/khannanov/sample1/subfolder/subfile.txt size: 4 creationData: Fri Dec 10 01:13:19 2021
+ mode: 33204 ino desc 1324585	 EQUALS TO 	/home/albert/11_906/khannanov/sample2/sample2_first.txt size: 4 creationData: Fri Dec 10 00:28:55 2021
+ mode: 33204 ino desc 1319409
+
+/home/albert/11_906/khannanov/sample1/sample2_first.txt size: 9 creationData: Fri Dec 10 01:13:29 2021
+ mode: 33204 ino desc 1324581	 EQUALS TO 	/home/albert/11_906/khannanov/sample2/sample2_third.txt size: 9 creationData: Thu Nov 25 16:45:24 2021
+ mode: 33204 ino desc 1324580
+
